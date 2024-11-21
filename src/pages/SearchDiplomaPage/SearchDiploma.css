@@ -1,0 +1,33 @@
+.search-container {
+  background-color: #ccc;
+}
+.search-container .header {
+  text-align: center;
+  background-color: #005ab7;
+}
+.search-container .header img {
+  height: 80px;
+}
+.search-container .body .search {
+  transform: translateY(43%);
+  background-color: #ebebeb;
+  width: 100%;
+}
+.search-container .body .search .form-input {
+  transform: translateY(-20%);
+  border-radius: 10px;
+  margin: 0px auto;
+  width: 800px;
+  height: 410px;
+  background-color: white;
+}
+.search-container .body .search .form-input .btn {
+  display: flex;
+  margin: 0 auto;
+  width: 30%;
+  text-align: center;
+  background-color: #e71827;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 600;
+}/*# sourceMappingURL=SearchDiploma.css.map */

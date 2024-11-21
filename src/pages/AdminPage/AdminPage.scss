@@ -1,0 +1,14 @@
+.body {
+  display: flex;
+  .menu {
+    flex: 1;
+  }
+  .view {
+    background-color: #dadada;
+    flex: 4;
+    height: 1000px;
+    .dashboard {
+      background-color: #fff;
+    }
+  }
+}

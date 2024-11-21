@@ -1,0 +1,54 @@
+.login-page .header {
+  text-align: center;
+  background-color: #005ab7;
+}
+.login-page .header img {
+  height: 78px;
+}
+.login-page .body {
+  max-width: 100%;
+}
+.login-page .body .body-left img {
+  width: 100%;
+  height: 585px;
+  outline: none;
+  border: none;
+}
+.login-page .body .body-right .title {
+  padding: 0;
+  font-size: 20px;
+  font-weight: 600;
+  color: #044eb7;
+  text-align: center;
+}
+.login-page .body .body-right .form-login .ip {
+  padding: 10px;
+}
+.login-page .body .body-right .form-login .btn {
+  width: 100%;
+  font-size: 16px;
+  padding: 12px 20px;
+  border: 1px solid #ff5a00;
+  border-radius: 4px !important;
+  margin-top: 15px;
+  background: #ff5a00;
+  color: #fff;
+  text-transform: uppercase;
+  cursor: pointer;
+  border-bottom: 5px solid #dc560d !important;
+}
+.login-page .body .body-right .bonus {
+  position: fixed;
+  right: 0;
+  margin: 30px 25px 0 0;
+}
+.login-page .body .body-right .bonus button {
+  border-radius: 3px;
+  outline: none;
+  border: none;
+  background-color: #25c6cb;
+}
+.login-page .body .body-right .bonus button a {
+  text-decoration: none;
+  color: #fff;
+}/*# sourceMappingURL=LoginPage.css.map */

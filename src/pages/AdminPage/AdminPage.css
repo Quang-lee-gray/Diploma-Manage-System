@@ -1,0 +1,14 @@
+.body {
+  display: flex;
+}
+.body .menu {
+  flex: 1;
+}
+.body .view {
+  background-color: #dadada;
+  flex: 4;
+  height: 1000px;
+}
+.body .view .dashboard {
+  background-color: #fff;
+}/*# sourceMappingURL=AdminPage.css.map */

@@ -1,0 +1,21 @@
+.heading {
+  background-color: #fff;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 57px;
+  z-index: 900;
+  padding: 0 175px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+  border-bottom: 1px solid #e7ecf0;
+  position: fixed;
+  color: #000;
+  .logo {
+    img {
+      cursor: pointer;
+      max-width: 100%;
+      max-height: 40px !important;
+      height: auto;
+    }
+  }
+}
